@@ -30,6 +30,7 @@
   height: 500px;
   margin: 0
   float: right;
+  padding-bottom: 0%;
 }
 
 .shadow {
@@ -38,6 +39,7 @@
   height: 500px;
   margin: 10px;
   float: left;
+  padding-bottom: 0%;
 }
 
 #details .border_right {
