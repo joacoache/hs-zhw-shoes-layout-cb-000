@@ -31,6 +31,7 @@
   margin: 0
   float: right;
   padding-bottom: 0%;
+  box-sizing: border-box;
 }
 
 .shadow {
