@@ -40,6 +40,7 @@
   margin: 10px;
   float: left;
   padding-bottom: 0%;
+  box-sizing: border-box;
 }
 
 #details .border_right {
