@@ -267,7 +267,6 @@ section a {
 /********** Details **********/
 
 #details {
-  clear:both;
   padding: 20px 10px;
   /* gradient */
   background: rgb(229,229,229); /* Old browsers */
