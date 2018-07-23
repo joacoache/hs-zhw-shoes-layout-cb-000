@@ -30,8 +30,6 @@
   height: 500px;
   margin: 0
   float: right;
-  padding-bottom: 0%;
-  box-sizing: border-box;
 }
 
 .shadow {
@@ -40,8 +38,6 @@
   height: 500px;
   margin: 10px;
   float: left;
-  padding-bottom: 0%;
-  box-sizing: border-box;
 }
 
 #details .border_right {
