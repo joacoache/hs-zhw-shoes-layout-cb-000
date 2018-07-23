@@ -24,4 +24,42 @@
 
 /* Posititoning Classes */
 
+#big-col {
+  position: relative;
+  width: 65%;
+  height: 500px;
+  margin: 0
+  float: right;
+}
 
+.shadow {
+  position: relative;
+  width: 30%;
+  height: 500px;
+  margin: 10px;
+  float: left;
+}
+
+#details .border_right {
+  position: relative;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+  float: left;
+}
+
+#details .border_left {
+  position: relative;
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+  float: left;
+}
+
+
+footer {
+  text-align: center;
+  bottom: 10px;
+  clear: both;
+  position: absolute;
+}
